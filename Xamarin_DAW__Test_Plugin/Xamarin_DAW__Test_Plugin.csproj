@@ -5,6 +5,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Xamarin_DAW\Xamarin_Daw__Plugin\Xamarin_Daw__Plugin.csproj" />
+    <ProjectReference Include="..\Xamarin_Daw__Plugin\Xamarin_Daw__Plugin.csproj" />
   </ItemGroup>
 </Project>
