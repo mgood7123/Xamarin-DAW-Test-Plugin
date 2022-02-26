@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.810.19
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_DAW__Test_Plugin", "Xamarin_DAW__Test_Plugin\Xamarin_DAW__Test_Plugin.csproj", "{391C29B8-DF4D-49A5-BC21-FCB7DFBA5515}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin_Daw__Plugin", "..\Xamarin_DAW\Xamarin_Daw__Plugin\Xamarin_Daw__Plugin.csproj", "{78C069C5-0566-49BB-BC27-D9F79D1424AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{391C29B8-DF4D-49A5-BC21-FCB7DFBA5515}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{391C29B8-DF4D-49A5-BC21-FCB7DFBA5515}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{391C29B8-DF4D-49A5-BC21-FCB7DFBA5515}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{391C29B8-DF4D-49A5-BC21-FCB7DFBA5515}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78C069C5-0566-49BB-BC27-D9F79D1424AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78C069C5-0566-49BB-BC27-D9F79D1424AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78C069C5-0566-49BB-BC27-D9F79D1424AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78C069C5-0566-49BB-BC27-D9F79D1424AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A2E8E931-3105-4CC8-9C09-9A3E24D819D6}
+	EndGlobalSection
+EndGlobal
