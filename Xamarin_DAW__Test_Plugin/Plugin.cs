@@ -2,7 +2,7 @@
 
 namespace Xamarin_DAW__Test_Plugin
 {
-    public class Class1 : Xamarin_DAW.Plugin
+    public class Plugin : Xamarin_DAW.Plugin
     {
         public override View onCreateView()
         {
